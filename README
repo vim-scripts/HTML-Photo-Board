@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=470
+
+Generates a table-based photoboard given either a directory of images, 
+or a configuration file.  It makes use of imagemagic to resize the images 
+for both the 'expanded' and 'thumbnail' images.
+
+At the moment, the table generated is simply a 'click to view image' type.
+The script supports alt text, some headings, and changing of colours.
+
+Detailed description of how to use &c  is in the file itself.
+Any comments 
